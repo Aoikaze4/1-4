@@ -40,3 +40,9 @@
   height: 1400px;
   background-color: limegreen;
 }
+
+.footer {
+  width: auto;
+  height: 100px;
+  background-color: blue;
+}
