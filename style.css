@@ -6,6 +6,8 @@
 /* reset css */
 
 .header {
+  width: 100%;
+  /* 答え合わせ：width記載漏れ */
   height: 50px;
   background-color: red;
 }
@@ -43,6 +45,7 @@
 
 .footer {
   width: auto;
+  /* 答え合わせ：width⇨100％ */
   height: 100px;
   background-color: blue;
 }
